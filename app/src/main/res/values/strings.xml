@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HolaMundoAndroid</string>
+    <string name="boton_sesion">Entrar</string>
+    <string name="mensaje_bienvenida">Bienvenido</string>
 </resources>
